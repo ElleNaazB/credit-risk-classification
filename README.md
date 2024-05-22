@@ -3,7 +3,7 @@ This project is about developing and evaluating machine learning models to predi
 ## Goal of the Analysis:
 The goal of this analysis was to predict the likelihood of a loan being approved or rejected based on various financial factors.
 
-## Financial information/data and the what needs to be predicted:
+## Financial information/data and what needs to be predicted:
 
 The dataset contained information on loan size, interest rate, borrower income, debt-to-income ratio, number of accounts, derogatory marks, and total debt. The target variable we needed to predict is loan_status (approved or rejected).
 
