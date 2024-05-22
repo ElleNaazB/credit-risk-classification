@@ -13,7 +13,7 @@ The loan_status is being predicted in this project and it has teo possible value
 `y.value_counts()` This will show how many loans were approved vs. rejected.
 
 
-## The Stages of the Machine Learning Proces 
+## Stages of the Machine Learning Proces 
 
 `Data Loading:` Reading the data from CSV into a DataFrame.
 
